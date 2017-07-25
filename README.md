@@ -13,3 +13,5 @@ See also:
 
 * https://github.com/karpathy/char-rnn
 * http://lewisandquark.tumblr.com/faq
+* https://medium.com/@hondanhon/i-trained-a-neural-net-to-generate-british-placenames-9460e907e4e9
+* https://www.onfocus.com/2017/07/7077/fake-oregon-placenames
