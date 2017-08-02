@@ -8,6 +8,8 @@ Some good results include:
 * James Pullin J. Nimhfard
 * Harges Brinen, Jr.
 * Tart Manraugty D. GritemeLy
+* Risk Reighurass
+* Oovis Scactall
 
 See also:
 
